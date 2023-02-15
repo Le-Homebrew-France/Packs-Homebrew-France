@@ -42,7 +42,7 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 - DSi Downloader
 
 ## Nintendo Switch
-### Contenu du [Atmopack](https://github.com/THZoria/AtmoPack-Vanilla) (par [Zoria](https://github.com/THZoria)
+### Contenu du [Atmopack](https://github.com/THZoria/AtmoPack-Vanilla) (par [Zoria](https://github.com/THZoria))
 - Atmosphère
 - Hekate
 - Sigpatch (tous les firmwares)
