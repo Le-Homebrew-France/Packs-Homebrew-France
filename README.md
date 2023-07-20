@@ -4,7 +4,7 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 # Présentation des packs
 ## Nintendo 3DS
 ### Contenu du pack Seedminer ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_SEEDMINER.zip)) :
-- Luma3DS (3GX Loader)
+- Luma3DS
 - Anemone (En français)
 - Checkpoint
 - FBI (3dsx et cia)
@@ -13,7 +13,7 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 - unSafeMode
 
 ### Contenu du pack Pichaxx ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_PICHAXX.zip)) :
-- Luma3DS (3GX Loader)
+- Luma3DS
 - Anemone (En français)
 - Checkpoint
 - FBI (3dsx et cia)
@@ -24,7 +24,7 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 - GodMode9 
 
 ### Contenu du pack Ntrboothax ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_NTRBOOTHAX.zip)) :
-- Luma3DS (3GX Loader)
+- Luma3DS
 - Anemone (En français)
 - Checkpoint
 - FBI (3dsx et cia)
