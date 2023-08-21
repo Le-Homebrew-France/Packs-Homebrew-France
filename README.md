@@ -13,6 +13,7 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 - Universal-Updater
 - nimdsphax
 - menuhax67
+- boot9strap-installer
   
 ### Contenu du pack Seedminer ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_SEEDMINER.zip)) :
 - Luma3DS
@@ -22,6 +23,7 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 - Homebrew Launcher
 - Universal-Updater
 - unSafeMode
+- boot9strap-installer
 
 ### Contenu du pack Pichaxx ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_PICHAXX.zip)) :
 - Luma3DS
