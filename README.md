@@ -3,6 +3,17 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 
 # Présentation des packs
 ## Nintendo 3DS
+
+### Contenu du pack KartMiner7 ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_KARTMINER.zip)) :
+- Luma3DS
+- Anemone (En français)
+- Checkpoint
+- FBI (3dsx et cia)
+- Homebrew Launcher
+- Universal-Updater
+- nimdsphax
+- menuhax67
+  
 ### Contenu du pack Seedminer ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_SEEDMINER.zip)) :
 - Luma3DS
 - Anemone (En français)
