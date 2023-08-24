@@ -54,6 +54,7 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 - FTPD
 - DSi Downloader
 - Memory Pit
+- dumpTool
 
 ## Nintendo Switch
 ### Contenu du [Atmopack](https://github.com/THZoria/AtmoPack-Vanilla) (par [Zoria](https://github.com/THZoria) | [Télécharger](https://github.com/THZoria/AtmoPack-Vanilla/releases/latest/download/AtmoPack-Vanilla_Latest.zip)) :
