@@ -46,13 +46,14 @@ Les packs prêts à l'emploi utilisés pour Le Homebrew France
 - GodMode9
 
 ## Nintendo DSi
-### Contenu du pack HiyaCFW ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_DSI_HIYACFW.zip)) :
+### Contenu du pack MemoryPit ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_DSI_MEMORY_PIT.zip)) :
 - Lazy DSi File Downloader
-- HiyaCFW Helper
+- Unlaunch DSi Installer
 - Nand Title Manager
 - GodMode9i
 - FTPD
 - DSi Downloader
+- Memory Pit
 
 ## Nintendo Switch
 ### Contenu du [Atmopack](https://github.com/THZoria/AtmoPack-Vanilla) (par [Zoria](https://github.com/THZoria) | [Télécharger](https://github.com/THZoria/AtmoPack-Vanilla/releases/latest/download/AtmoPack-Vanilla_Latest.zip)) :
