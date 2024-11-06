@@ -1,5 +1,5 @@
 # Packs Homebrew France
-Les packs prêts à l'emploi utilisés pour Le Homebrew France
+Les packs prêts à l'emploi utilisés pour Homebrew France
 
 # Présentation des packs
 ## Nintendo 3DS
