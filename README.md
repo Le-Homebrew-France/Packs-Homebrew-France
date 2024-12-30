@@ -15,27 +15,6 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 - menuhax67
 - boot9strap-installer
   
-### Contenu du pack Seedminer ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_SEEDMINER.zip)) :
-- Luma3DS
-- Anemone (En français)
-- Checkpoint
-- FBI (3dsx et cia)
-- Homebrew Launcher
-- Universal-Updater
-- unSafeMode
-- boot9strap-installer
-
-### Contenu du pack Pichaxx ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_PICHAXX.zip)) :
-- Luma3DS
-- Anemone (En français)
-- Checkpoint
-- FBI (3dsx et cia)
-- Homebrew Launcher
-- Universal-Updater
-- Otherapp
-- boot9strap-installer
-- GodMode9 
-
 ### Contenu du pack Ntrboothax ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_NTRBOOTHAX.zip)) :
 - Luma3DS
 - Anemone (En français)
@@ -57,7 +36,7 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 - dumpTool
 
 ## Nintendo Switch
-### Contenu du [Atmopack](https://gitlab.com/THZoria/AtmoPack-Vanilla) (par [Zoria](https://github.com/THZoria)) :
+### Contenu du [Atmopack](https://codeberg.org/Zoria/AtmoPack-Vanilla/) (par [Zoria](https://github.com/THZoria)) :
 - Atmosphère
 - Hekate
 - Sigpatch (tous les firmwares)
