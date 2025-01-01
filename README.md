@@ -2,11 +2,11 @@
 Les packs prêts à l'emploi utilisés pour Homebrew France
 
 # Présentation des packs
-## Nintendo 3DS
 
-### Contenu du pack KartMiner7 ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_KARTMINER.zip)) :
+# Pack Luma3DS KartMiner7
+## Ce pack contient :
 - Luma3DS
-- Anemone (En français)
+- Anemone
 - Checkpoint
 - FBI (3dsx et cia)
 - Homebrew Launcher
@@ -14,18 +14,35 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 - nimdsphax
 - menuhax67
 - boot9strap-installer
-  
-### Contenu du pack Ntrboothax ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_3DS_NTRBOOTHAX.zip)) :
+
+# Pack Luma3DS Vanilla
+## Ce pack contient :
 - Luma3DS
-- Anemone (En français)
+- Anemone
+- Checkpoint
+- FBI (3dsx et cia)
+- Homebrew Launcher
+- Universal-Updater
+
+# Pack Luma3DS NTRBOOTHAX
+## Ce pack contient :
+- Luma3DS
+- Anemone 
 - Checkpoint
 - FBI (3dsx et cia)
 - Homebrew Launcher
 - Universal-Updater
 - GodMode9
 
-## Nintendo DSi
-### Contenu du pack MemoryPit ([Télécharger](https://github.com/Le-Homebrew-France/Packs-Homebrew-France/releases/latest/download/PACK_NINTENDO_DSI_MEMORY_PIT.zip)) :
+# Pack Luma3DS BROWSERHAX
+## Ce pack contient :
+- Homebrew Launcher
+- Universal-Updater 
+- arm11code
+- browserhax_hblauncher_ropbin_payload
+
+# Pack MemoryPit
+## Ce pack contient :
 - Lazy DSi File Downloader
 - Unlaunch DSi Installer
 - Nand Title Manager
@@ -35,18 +52,4 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 - Memory Pit
 - dumpTool
 
-## Nintendo Switch
-### Contenu du [Atmopack](https://codeberg.org/Zoria/AtmoPack-Vanilla/) (par [Zoria](https://github.com/THZoria)) :
-- Atmosphère
-- Hekate
-- Sigpatch (tous les firmwares)
-- DayBreak
-- Goldleaf
-- JKSV
-- FTPD
-- NXMTP
-- TinWoo
-- DBI
-- 90DNS_Testeur
-- PayloadReboot
-- AtmoPack-Updater
+## Ces packs sont mis à jour dès qu'une des applications est mise à jour, en cas d'oubli de mise à jour, merci de nous en prévenir si possible.
