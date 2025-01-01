@@ -3,8 +3,8 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 
 # Présentation des packs
 
-# Pack Luma3DS KartMiner7
-## Ce pack contient :
+## Pack Luma3DS KartMiner7
+### Ce pack contient :
 - Luma3DS
 - Anemone
 - Checkpoint
@@ -15,8 +15,8 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 - menuhax67
 - boot9strap-installer
 
-# Pack Luma3DS Vanilla
-## Ce pack contient :
+## Pack Luma3DS Vanilla
+### Ce pack contient :
 - Luma3DS
 - Anemone
 - Checkpoint
@@ -24,8 +24,8 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 - Homebrew Launcher
 - Universal-Updater
 
-# Pack Luma3DS NTRBOOTHAX
-## Ce pack contient :
+## Pack Luma3DS NTRBOOTHAX
+### Ce pack contient :
 - Luma3DS
 - Anemone 
 - Checkpoint
@@ -34,15 +34,15 @@ Les packs prêts à l'emploi utilisés pour Homebrew France
 - Universal-Updater
 - GodMode9
 
-# Pack Luma3DS BROWSERHAX
-## Ce pack contient :
+## Pack Luma3DS BROWSERHAX
+### Ce pack contient :
 - Homebrew Launcher
 - Universal-Updater 
 - arm11code
 - browserhax_hblauncher_ropbin_payload
 
-# Pack MemoryPit
-## Ce pack contient :
+## Pack MemoryPit
+### Ce pack contient :
 - Lazy DSi File Downloader
 - Unlaunch DSi Installer
 - Nand Title Manager
