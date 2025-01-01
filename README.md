@@ -1,7 +1,7 @@
 # Packs Homebrew France
 Les packs prêts à l'emploi utilisés pour Homebrew France
 
-# Présentation des packs
+# Présentation des packs :
 
 ## Pack Luma3DS KartMiner7
 ### Ce pack contient :
